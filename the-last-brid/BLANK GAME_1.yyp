@@ -2,13 +2,13 @@
   "$GMProject":"v1",
   "%Name":"BLANK GAME_1",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -31,11 +31,16 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.14.2.213",
   },
   "name":"BLANK GAME_1",
   "resources":[
+    {"id":{"name":"obj_MainBird","path":"objects/obj_MainBird/obj_MainBird.yy",},},
+    {"id":{"name":"obj_Tree","path":"objects/obj_Tree/obj_Tree.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Movement","path":"scripts/Movement/Movement.yy",},},
+    {"id":{"name":"spr_MainBird","path":"sprites/spr_MainBird/spr_MainBird.yy",},},
+    {"id":{"name":"spr_Tree","path":"sprites/spr_Tree/spr_Tree.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
