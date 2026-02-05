@@ -25,6 +25,7 @@
     {"name":"RoomUI","order":16,"path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"spr_HouseTree","order":2,"path":"sprites/spr_HouseTree/spr_HouseTree.yy",},
     {"name":"spr_hunger","order":5,"path":"sprites/spr_hunger/spr_hunger.yy",},
+    {"name":"spr_SpaceBar","order":6,"path":"sprites/spr_SpaceBar/spr_SpaceBar.yy",},
     {"name":"spr_Tree","order":1,"path":"sprites/spr_Tree/spr_Tree.yy",},
     {"name":"spr_worm","order":4,"path":"sprites/spr_worm/spr_worm.yy",},
   ],
